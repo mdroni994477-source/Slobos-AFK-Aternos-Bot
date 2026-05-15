@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "Creeper",
+    "password": "ChaloBhai",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "GermyMc.aternos.me",
+    "port": 23840,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "ChaloBhai"
     },
     "anti-afk": {
       "enabled": true,
@@ -33,7 +33,7 @@
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I like to play on GermyMc!"
       ]
     },
     "chat-log": true,
